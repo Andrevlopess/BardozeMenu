@@ -1,0 +1,244 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "title": "Hamburger Vegetariano",
+      "image": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 22.5,
+      "description": "Hambúrguer vegetariano empanado, à base de brócolis, couve-flor e queijo gorgonzola, coberto por um mix de queijos derretidos. Servido com molhos de gorgonzola e smoked mayo, alface, tomate e picles de pepino em pão tipo brioche.",
+      "waitingTime": 15,
+      "foodCategories": "Hamburguer"
+    },
+    {
+      "id": 2,
+      "title": "Cream Pasta",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Steakhouse-Pasta-225x255.png",
+      "price": 29.99,
+      "description": "Fettuccine com champignons, tomates frescos e cortes de filet mignon. Refogado com um toque de vinho Chardonnay e black pepper.",
+      "waitingTime": 21,
+      "foodCategories": "Massas"
+    },
+    {
+      "id": 3,
+      "title": "Chedar Burger",
+      "image": "https://images.pexels.com/photos/1556698/pexels-photo-1556698.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 28.99,
+      "description": "Feito com 200g de carne, coberto por queijo tipo ementhal e molho cheddar, traz ainda um plus de bacon crocante, Smoked Mayo e, para finalizar, cebolas caramelizadas em um pão tipo brioche.",
+      "waitingTime": 12,
+      "foodCategories": "Hamburguer"
+    },
+    {
+      "id": 4,
+      "title": "Chicken Chips",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Chicken-Fingers-Jumbo.png",
+      "price": 28.99,
+      "description": "4 pedaços crocantes de peito de frango empanado para você mergulhar no delicioso molho Honey Mustard. Mais saboroso ainda no estilo Tasmanian: light, medium ou hot.",
+      "waitingTime": 15,
+      "foodCategories": "Chicken"
+    },
+    {
+      "id": 5,
+      "title": "Special Filet",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Victorias-Filet.png",
+      "price": 40.99,
+      "description": "Um corte de filet mignon com cerca de 200g, servido no estilo que preferir: com temperos Outback ou com ervas finas. Servido com molho Merlot.",
+      "waitingTime": 30,
+      "foodCategories": "Steaks"
+    },
+    {
+      "id": 6,
+      "title": "Brazil Filet",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/new_york_strip_steak--225x255.jpg",
+      "price": 35.99,
+      "waitingTime": 28,
+      "description": "375g do corte nobre do contra-filet, perfeitamente temperado e preparado na chapa. ",
+      "foodCategories": "Steaks"
+    },
+    {
+      "id": 7,
+      "title": "Rockhampton Ribeye",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Rockhampton-Ribeye-Steak-225x255.png",
+      "price": 30.99,
+      "waitingTime": 28,
+      "description": "325g da parte mais gostosa da costela bovina, com o bold flavour inconfundível da nossa mistura secreta de temperos. Na chapa, com tempero tradicional, ou em chama aberta, com o tempero Chargrill condimentado com toque de café",
+      "foodCategories": "Steaks"
+    },
+    {
+      "id": 8,
+      "title": "Chicken on the Barbie",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/42_Chicken-on-the-Barbie_1-225x255.jpg",
+      "price": 24.99,
+      "waitingTime": 18,
+      "description": "Um suculento peito de frango de cerca de 230g grelhado em chama aberta, servido com o molho Barbecue",
+      "foodCategories": "Chicken"
+    },
+    {
+      "id": 9,
+      "title": "Toowoomba Pasta",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/toowoomba_pasta_massa-225x255.jpg",
+      "price": 21.99,
+      "waitingTime": 15,
+      "description": "Uma combinação perfeita de camarões e champignons, temperada com ervas finas e servida com fettuccine refogado ao molho Alfredo",
+      "foodCategories": "Massas"
+    }
+  ],
+  "drinks": [
+    {
+      "id": 10,
+      "title": "Brahma Chopp",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/AF_61.4299.3361.5880_51638_EXP_Imagem-Chopp_CHOPP_225X255px-2.jpg",
+      "price": 12,
+      "waitingTime": 0,
+      "drinkCategories": "Chopp"
+    },
+    {
+      "id": 11,
+      "title": "Chopp Colorado",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/chopp-appia-225x255.jpg",
+      "price": 16.99,
+      "waitingTime": 3,
+      "drinkCategories": "Chopp"
+    },
+    {
+      "id": 12,
+      "title": "Chandon",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Chandon-R%C3%A9serve-Brut-750ml.png",
+      "price": 59.99,
+      "waitingTime": 0,
+      "drinkCategories": "WinesSparklingWines"
+    },
+    {
+      "id": 13,
+      "title": "Slaton Prosecco",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Salton-Prosecco-1.png",
+      "price": 38.99,
+      "waitingTime": 2,
+      "drinkCategories": "WinesSparklingWines"
+    },
+    {
+      "id": 14,
+      "title": "Salton Paradoxo 2019",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Salton-Paradoxo-Pinot-Noir.png",
+      "price": 25.99,
+      "waitingTime": 0,
+      "drinkCategories": "WinesSparklingWines"
+    },
+    {
+      "id": 15,
+      "title": "Maramora Juice",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Maramora-2.png",
+      "price": 12.99,
+      "waitingTime": 5,
+      "drinkCategories": "Juices"
+    },
+    {
+      "id": 16,
+      "title": "Suco LaraMora",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/suco-laramora-225x255.jpg",
+      "price": 12.99,
+      "waitingTime": 5,
+      "drinkCategories": "Juices"
+    }
+  ],
+  "desserts": [
+    {
+      "id": 11,
+      "title": "Milk Shake",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Milkshake-225x255.jpg",
+      "price": 16.99,
+      "description": "O delicioso milkshake, no sabor chocolate ou morango, servido na caneca congelada de 340 ml.",
+      "waitingTime": 8,
+      "dessertCategories": "MilkShake"
+    },
+    {
+      "id": 12,
+      "title": "IceCream",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/50_Cinnamon-Oblivion-225x255.jpg",
+      "price": 15,
+      "waitingTime": 5,
+      "description": "A sobremesa que nossos waiters adoram explicar. Contém nozes ou derivado de nozes.",
+      "dessertCategories": "IceCream"
+    },
+    {
+      "id": 13,
+      "title": "IceCream S´Mores",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Smores-1.png",
+      "price": 19.99,
+      "waitingTime": 10,
+      "description": "Uma sobremesa quente, que combina cookies com gotas de chocolate, uma surpreendente pasta cremosa de Kit Kat, marshmallow gratinado, nossa calda de chocolate e pedaços de Kit Kat para finalizar.",
+      "dessertCategories": "IceCream"
+    }
+  ],
+  "foodCategories": [
+    {
+      "id": 1,
+      "title": "Hamburguer"
+    },
+    {
+      "id": 2,
+      "title": "Massas"
+    },
+    {
+      "id": 3,
+      "title": "Chicken"
+    },
+    {
+      "id": 4,
+      "title": "Steaks"
+    }
+  ],
+  "drinkCategories": [
+    {
+      "id": 5,
+      "title": "Chopp"
+    },
+    {
+      "id": 6,
+      "title": "Juices"
+    },
+    {
+      "id": 7,
+      "title": "WinesSparklingWines"
+    }
+  ],
+  "dessertsCategories": [
+    {
+      "id": 8,
+      "title": "IceCream"
+    },
+    {
+      "id": 9,
+      "title": "MilkShake"
+    }
+  ],
+  "cartItems": [
+    {
+      "id": 1,
+      "title": "Hamburger Vegetariano",
+      "image": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 22.5,
+      "description": "Hambúrguer vegetariano empanado, à base de brócolis, couve-flor e queijo gorgonzola, coberto por um mix de queijos derretidos. Servido com molhos de gorgonzola e smoked mayo, alface, tomate e picles de pepino em pão tipo brioche.",
+      "waitingTime": 15,
+      "foodCategories": "Hamburguer"
+    },
+    {
+      "id": 4,
+      "title": "Chicken Chips",
+      "image": "https://s3.amazonaws.com/institucional-statics-files/site/uploads/Chicken-Fingers-Jumbo.png",
+      "price": 28.99,
+      "description": "4 pedaços crocantes de peito de frango empanado para você mergulhar no delicioso molho Honey Mustard. Mais saboroso ainda no estilo Tasmanian: light, medium ou hot.",
+      "waitingTime": 15,
+      "foodCategories": "Chicken"
+    },
+    {
+      "id": 3,
+      "title": "Chedar Burger",
+      "image": "https://images.pexels.com/photos/1556698/pexels-photo-1556698.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 28.99,
+      "description": "Feito com 200g de carne, coberto por queijo tipo ementhal e molho cheddar, traz ainda um plus de bacon crocante, Smoked Mayo e, para finalizar, cebolas caramelizadas em um pão tipo brioche.",
+      "waitingTime": 12,
+      "foodCategories": "Hamburguer"
+    }
+  ],
+  "orderedItems": []
+}
